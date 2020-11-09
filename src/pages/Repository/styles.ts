@@ -7,6 +7,7 @@ export const Header = styled.header`
 
   a {
     display: flex;
+    text-align: right;
     align-items: center;
     text-decoration: none;
     color: #a8a8b3;

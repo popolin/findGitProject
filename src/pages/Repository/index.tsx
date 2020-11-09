@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useRouteMatch, Link } from 'react-router-dom';
-import { FiChevronsLeft, FiChevronRight } from 'react-icons/fi';
+import { FiTrash, FiChevronsLeft, FiChevronRight } from 'react-icons/fi';
 import api from '../../services/api';
 
 import logoImg from '../../assets/logo.svg';
